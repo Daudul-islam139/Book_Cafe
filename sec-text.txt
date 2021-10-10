@@ -1,4 +1,0 @@
-This is second text file for neno camp.
-It is for test.
-1st test commit.
-2nd  test commit.
