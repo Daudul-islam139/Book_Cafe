@@ -1,3 +1,0 @@
-This is Thired text file.
-This is for test.
-1st commit.
